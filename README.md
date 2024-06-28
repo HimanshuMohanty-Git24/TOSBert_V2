@@ -6,6 +6,13 @@
 
 TOSBertV2 is an advanced Terms of Service (ToS) fairness classifier that uses state-of-the-art natural language processing techniques to analyze and categorize clauses in ToS agreements. This tool helps users quickly identify potentially unfair or problematic clauses in legal documents.
 
+## 👨‍💻 Demo
+
+
+https://github.com/HimanshuMohanty-Git24/TOSBert_V2/assets/94133298/0c36ad27-67cb-4a55-a941-4afd02957365
+
+
+
 ## 🌟 Features
 
 - 🧠 Utilizes a fine-tuned BERT model for accurate classification
