@@ -102,7 +102,7 @@ TOSBertV2/
 
 ## 🧠 Model Information
 
-- **Model Name**: CodeHima/TOSBertV2
+- **Model Name**: [CodeHima/TOSBertV2](https://huggingface.co/CodeHima/TOSBertV2)
 - **Dataset**: [TOS_Dataset](https://huggingface.co/datasets/CodeHima/TOS_Dataset)
 - **Base Model**: BERT (Bidirectional Encoder Representations from Transformers)
 
