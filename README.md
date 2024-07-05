@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 TOSBertV2 is an advanced Terms of Service (ToS) fairness classifier that uses state-of-the-art natural language processing techniques to analyze and categorize clauses in ToS agreements. This tool helps users quickly identify potentially unfair or problematic clauses in legal documents.
-
+*Live Link is down due to Limit Exceed 😅
 ## 👨‍💻 Demo
 
 
